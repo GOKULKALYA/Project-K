@@ -4,7 +4,7 @@ biggest3() {
 
   double n1, n2, n3;
 
-  printf("Enter three different numbers: ");
+  printf("Enter three different numbers: ") ;
   scanf("%lf %lf %lf", &n1, &n2, &n3);
 
   // if n1 is greater than both n2 and n3, n1 is the largest
